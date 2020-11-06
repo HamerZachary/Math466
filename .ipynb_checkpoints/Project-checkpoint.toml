@@ -1,4 +1,7 @@
-name = "NumericalAnalysis"
+name = "UNRMath466"
 uuid = "fb95ee10-9bc8-49b9-b058-caf6fa42297b"
 authors = ["Zachary Hamer"]
 version = "0.1.0"
+
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
